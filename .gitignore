@@ -1,0 +1,47 @@
+# Power BI temporary/cache files
+*.pbi-cache
+*.pbi-local
+*.pbi-temp
+
+# Power BI backup files
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Python cache (if any supporting Python files are added later)
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Personal/local configuration
+*.local
+
+# Temporary exports
+exports/
+temp/
+tmp/

@@ -1,0 +1,3 @@
+# Project: Grocery Sales and Revenue Analytics using Power BI
+# Visualization & BI Tool
+Power BI Desktop
